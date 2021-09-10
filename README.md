@@ -41,11 +41,10 @@ A player sprite can be changed by the end of colons. 0:1 is also mean if client 
 this.T+=.005*a,this.H+=50*a)
 ```
 **T** means the time speed\
-**H** means the score limit from scrolling\
+**H** means the score limit from scrolling
 ```javascript
 new Hc(c),0>e.i||e.j>Q())c=!0;else{for(g=0;g<d.length;g++)if(c!==d[g])
 ```
 At "c=!0", you can disable dying from walls.\
 At "g=0", you can disable dying from enemies.\
-
-Others will be soon.\
+**Others will be soon.**

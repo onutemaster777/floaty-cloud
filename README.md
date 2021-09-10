@@ -32,7 +32,7 @@ There's some things to that player:
 this.i.i=-180;this.i.H=288
 ```
 **i** means the player bouncing power\
-**H** means the player falling power\
+**H** means the player falling power
 ```javascript
 new xc(b,function(){return 0<a.i.i?0:1})
 ```

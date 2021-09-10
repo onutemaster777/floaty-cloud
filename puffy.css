@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+  src: local('Quicksand Bold'),
+       url('fonts/Quicksand-Bold.woff2') format('woff2'),
+       url('fonts/Quicksand-Bold.woff') format('woff');
+}
